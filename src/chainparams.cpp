@@ -462,11 +462,8 @@ const int SCRYPT_SCRATCHPAD_SIZE = 131072 + 63;
         //vSeeds.push_back(CDNSSeedData("fuzzbawls.pw", "shekel.seed2.fuzzbawls.pw"));    // Secondary DNS Seeder from Fuzzbawls
         //vSeeds.push_back(CDNSSeedData("coin-server.com", "coin-server.com"));         // Single node address
         //vSeeds.push_back(CDNSSeedData("s3v3nh4cks.ddns.net", "s3v3nh4cks.ddns.net")); // Single node address
-        vSeeds.push_back(CDNSSeedData("192.99.70.225", "192.99.70.225"));           // Single node address
-        vSeeds.push_back(CDNSSeedData("51.254.117.88", "51.254.117.88")); //some xtra nodes
-        vSeeds.push_back(CDNSSeedData("54.37.56.41", "54.37.56.41"));
-        vSeeds.push_back(CDNSSeedData("54.37.56.42", "54.37.56.42"));
-        vSeeds.push_back(CDNSSeedData("54.37.56.40", "54.37.56.40"));
+        vSeeds.push_back(CDNSSeedData("shekel.gyservers.com", "shekel.gyservers.com"));           // Single node address
+       
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 63);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 13);
