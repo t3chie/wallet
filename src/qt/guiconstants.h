@@ -48,9 +48,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 35
 
-#define QAPP_ORG_NAME "JEW"
+#define QAPP_ORG_NAME "Shekel"
 #define QAPP_ORG_DOMAIN "shekel.org"
-#define QAPP_APP_NAME_DEFAULT "JEW-Qt"
-#define QAPP_APP_NAME_TESTNET "JEW-Qt-testnet"
+#define QAPP_APP_NAME_DEFAULT "Shekel-Qt"
+#define QAPP_APP_NAME_TESTNET "Shekel-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

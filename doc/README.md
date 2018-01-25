@@ -1,13 +1,13 @@
-JEW Core
+Shekel Core
 =====================
 
 Setup
 ---------------------
-[JEW Core](http://shekel.org/wallet) is the original JEW client and it builds the backbone of the network. However, it downloads and stores the entire history of JEW transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[Shekel Core](http://shekel.org/wallet) is the original Shekel client and it builds the backbone of the network. However, it downloads and stores the entire history of JEW transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run JEW on your native platform.
+The following are some helpful notes on how to run Shekel on your native platform.
 
 ### Unix
 
@@ -22,18 +22,18 @@ Unpack the files into a directory, and then run shekel-qt.exe.
 
 ### OSX
 
-Drag JEW-Qt to your applications folder, and then run JEW-Qt.
+Drag Shekel-Qt to your applications folder, and then run Shekel-Qt.
 
 ### Need Help?
 
-* See the documentation at the [JEW Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
+* See the documentation at the [Shekel Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [JEW Forum](http://forum.shekel.org/).
-* Join one of our Slack groups [JEW Slack Groups](https://shekel.org/slack-logins/).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [Shekel Forum](http://forum.shekel.org/).
+* Join one of our Slack groups [Shekel Slack Groups](https://shekel.org/slack-logins/).
 
 Building
 ---------------------
-The following are developer notes on how to build JEW on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build Shekel on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [OSX Build Notes](build-osx.md)
 - [Unix Build Notes](build-unix.md)
@@ -41,7 +41,7 @@ The following are developer notes on how to build JEW on your native platform. T
 
 Development
 ---------------------
-The Shekel repo's [root README](https://github.com/JEW-Project/JEW/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Shekel repo's [root README](http://github.com/shekeltechnologies/wallet/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -55,8 +55,8 @@ The Shekel repo's [root README](https://github.com/JEW-Project/JEW/blob/master/R
 
 ### Resources
 
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [JEW](http://forum.shekel.org/) forum.
-* Join the [JEW-Dev](https://shekel-dev.slack.com/) Slack group ([Sign-Up](https://shekel-dev.herokuapp.com/)).
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [Shekel](http://forum.shekel.org/) forum.
+* Join the [Shekel-Dev](https://shekel-dev.slack.com/) Slack group ([Sign-Up](https://shekel-dev.herokuapp.com/)).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
