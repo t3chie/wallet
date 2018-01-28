@@ -462,8 +462,7 @@ const int SCRYPT_SCRATCHPAD_SIZE = 131072 + 63;
         //vSeeds.push_back(CDNSSeedData("fuzzbawls.pw", "shekel.seed2.fuzzbawls.pw"));    // Secondary DNS Seeder from Fuzzbawls
         //vSeeds.push_back(CDNSSeedData("coin-server.com", "coin-server.com"));         // Single node address
         //vSeeds.push_back(CDNSSeedData("s3v3nh4cks.ddns.net", "s3v3nh4cks.ddns.net")); // Single node address
-        vSeeds.push_back(CDNSSeedData("shekel.gyservers.com", "shekel.gyservers.com"));           // Single node address
-        patch-1
+        vSeeds.push_back(CDNSSeedData("shekel.gyservers.com", "shekel.gyservers.com"));
         vSeeds.push_back(CDNSSeedData("seed.shekel.io", "seed.shekel.io"));
         
         master
